@@ -1,0 +1,15 @@
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/HSExerc.csproj.AssemblyReference.cache
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/HSExerc.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/HSExerc.AssemblyInfoInputs.cache
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/HSExerc.AssemblyInfo.cs
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/HSExerc.csproj.CoreCompileInputs.cache
+/home/dan92/Vídeos/C#/HSExerc/bin/Debug/net7.0/HSExerc
+/home/dan92/Vídeos/C#/HSExerc/bin/Debug/net7.0/HSExerc.deps.json
+/home/dan92/Vídeos/C#/HSExerc/bin/Debug/net7.0/HSExerc.runtimeconfig.json
+/home/dan92/Vídeos/C#/HSExerc/bin/Debug/net7.0/HSExerc.dll
+/home/dan92/Vídeos/C#/HSExerc/bin/Debug/net7.0/HSExerc.pdb
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/HSExerc.dll
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/refint/HSExerc.dll
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/HSExerc.pdb
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/HSExerc.genruntimeconfig.cache
+/home/dan92/Vídeos/C#/HSExerc/obj/Debug/net7.0/ref/HSExerc.dll

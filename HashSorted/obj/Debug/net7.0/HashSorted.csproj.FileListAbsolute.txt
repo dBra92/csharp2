@@ -1,0 +1,15 @@
+/home/dan92/Vídeos/C#/HashSorted/bin/Debug/net7.0/HashSorted
+/home/dan92/Vídeos/C#/HashSorted/bin/Debug/net7.0/HashSorted.deps.json
+/home/dan92/Vídeos/C#/HashSorted/bin/Debug/net7.0/HashSorted.runtimeconfig.json
+/home/dan92/Vídeos/C#/HashSorted/bin/Debug/net7.0/HashSorted.dll
+/home/dan92/Vídeos/C#/HashSorted/bin/Debug/net7.0/HashSorted.pdb
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/HashSorted.csproj.AssemblyReference.cache
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/HashSorted.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/HashSorted.AssemblyInfoInputs.cache
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/HashSorted.AssemblyInfo.cs
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/HashSorted.csproj.CoreCompileInputs.cache
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/HashSorted.dll
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/refint/HashSorted.dll
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/HashSorted.pdb
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/HashSorted.genruntimeconfig.cache
+/home/dan92/Vídeos/C#/HashSorted/obj/Debug/net7.0/ref/HashSorted.dll

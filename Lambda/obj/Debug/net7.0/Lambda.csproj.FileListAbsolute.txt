@@ -1,0 +1,15 @@
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/Lambda.csproj.AssemblyReference.cache
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/Lambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/Lambda.AssemblyInfoInputs.cache
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/Lambda.AssemblyInfo.cs
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/Lambda.csproj.CoreCompileInputs.cache
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/bin/Debug/net7.0/Lambda
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/bin/Debug/net7.0/Lambda.deps.json
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/bin/Debug/net7.0/Lambda.runtimeconfig.json
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/bin/Debug/net7.0/Lambda.dll
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/bin/Debug/net7.0/Lambda.pdb
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/Lambda.dll
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/refint/Lambda.dll
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/Lambda.pdb
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/Lambda.genruntimeconfig.cache
+/home/dan92/Vídeos/Aprendizado/C#/Lambda/obj/Debug/net7.0/ref/Lambda.dll

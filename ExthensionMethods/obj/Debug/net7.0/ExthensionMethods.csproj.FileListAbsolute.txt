@@ -1,0 +1,15 @@
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/bin/Debug/net7.0/ExthensionMethods
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/bin/Debug/net7.0/ExthensionMethods.deps.json
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/bin/Debug/net7.0/ExthensionMethods.runtimeconfig.json
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/bin/Debug/net7.0/ExthensionMethods.dll
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/bin/Debug/net7.0/ExthensionMethods.pdb
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/ExthensionMethods.csproj.AssemblyReference.cache
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/ExthensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/ExthensionMethods.AssemblyInfoInputs.cache
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/ExthensionMethods.AssemblyInfo.cs
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/ExthensionMethods.csproj.CoreCompileInputs.cache
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/ExthensionMethods.dll
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/refint/ExthensionMethods.dll
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/ExthensionMethods.pdb
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/ExthensionMethods.genruntimeconfig.cache
+/home/dan92/Vídeos/Aprendizado/C#/ExthensionMethods/obj/Debug/net7.0/ref/ExthensionMethods.dll

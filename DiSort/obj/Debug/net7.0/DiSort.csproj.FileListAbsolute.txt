@@ -1,0 +1,15 @@
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/DiSort.csproj.AssemblyReference.cache
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/DiSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/DiSort.AssemblyInfoInputs.cache
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/DiSort.AssemblyInfo.cs
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/DiSort.csproj.CoreCompileInputs.cache
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/bin/Debug/net7.0/DiSort
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/bin/Debug/net7.0/DiSort.deps.json
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/bin/Debug/net7.0/DiSort.runtimeconfig.json
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/bin/Debug/net7.0/DiSort.dll
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/bin/Debug/net7.0/DiSort.pdb
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/DiSort.dll
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/refint/DiSort.dll
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/DiSort.pdb
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/DiSort.genruntimeconfig.cache
+/home/dan92/Vídeos/Aprendizado/C#/DiSort/obj/Debug/net7.0/ref/DiSort.dll
